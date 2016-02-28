@@ -1,0 +1,44 @@
+_repo: Letters-of-Franz-Liszt-Volume-2-from-Rome-to-the-End_3750
+contributor:
+  compiler:
+    agent_name: La Mara
+    aliases:
+    - Mara, La
+    - Lipsius, Ida Marie
+    - LaMara
+    - Lipsius, Marie
+    birthdate: 1837
+    deathdate: 1927
+    gutenberg_agent_id: '25863'
+    url: http://www.gutenberg.org/2009/agents/25863
+  translator:
+    agent_name: Bache, Constance
+    birthdate: 1846
+    deathdate: 1903
+    gutenberg_agent_id: '1267'
+    url: http://www.gutenberg.org/2009/agents/1267
+creator:
+  author:
+    agent_name: Liszt, Franz
+    alias: Liszt, F. (Franz)
+    birthdate: 1811
+    deathdate: 1886
+    gutenberg_agent_id: '1266'
+    url: http://www.gutenberg.org/2009/agents/1266
+    wikipedia: http://en.wikipedia.org/wiki/Franz_Liszt
+description: 'See also: Volume 1: http://www.gutenberg.org/etext/3689'
+gutenberg_bookshelf: Music
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- Hungary -- Correspondence'
+- !lcsh 'Liszt, Franz, 1811-1886 -- Correspondence'
+- !lcc 'ML'
+title: "Letters of Franz Liszt -- Volume 2\r\nfrom Rome to the End"
+url: http://www.gutenberg.org/ebooks/3750
