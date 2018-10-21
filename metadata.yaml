@@ -1,5 +1,5 @@
 _repo: Letters-of-Franz-Liszt-Volume-2-from-Rome-to-the-End_3750
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   compiler:
     agent_name: La Mara
@@ -46,5 +46,6 @@ subjects:
 - !lcsh 'Composers -- Hungary -- Correspondence'
 - !lcsh 'Liszt, Franz, 1811-1886 -- Correspondence'
 - !lcc 'ML'
+- GITenberg
 title: "Letters of Franz Liszt -- Volume 2\r\nfrom Rome to the End"
 url: http://www.gutenberg.org/ebooks/3750
